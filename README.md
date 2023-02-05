@@ -27,7 +27,7 @@
      
      <p>
       # 프론트 
-      react-router-dom을 통해서 url 라우팅 > Signup.js에서 화면 레이아웃 구성, async와 axios를 사용해 비동기로 백엔드서버에 요청 
+      react-router-dom을 통해서 url 라우팅 > Signup.js에서 화면 레이아웃 구성
       > 회원가입
      </p>
       
