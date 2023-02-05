@@ -1,0 +1,28 @@
+# coding: utf-8
+
+# shell_plus
+django-extensions
+
+# 디버그 내역을 보기위한 라이브러리
+django-debug-toolbar
+
+# Ipython + Jupyter (더 유용한 shell)
+jupyter
+
+# 이미지 파일을 사용하기위한 라이브러리
+pillow
+
+# 사용자별 기본 프로필 이미지
+django-pydenticon
+
+# 장고용 RESTful API
+djangorestframework
+
+# HTTP 요청시 사용
+httpie
+
+# 다른 도메인에서 리소스에 액세스하기 위해 사용
+django-cors-headers
+
+# Simple JSON Web Token 인증시 사용
+djangorestframework-simplejwt
