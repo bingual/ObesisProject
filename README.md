@@ -1,42 +1,7 @@
 # ObesisProject
 
 <div>
-  <h3>웹 기획</h3>
-  
-  <div>
-    <ul>
-      <li>Django/DRF, Node/React 프레임워크 사용</li>
-      <li>백엔드 서버에서 데이터관리, 프론트 클라이언트에서 디스플레이 구현</li>
-    </ul>
-  </div>
-  
-</div>
-
-
+  <h2>동작 과정</h2>
+  <h2><a href="https://www.notion.so/6e23449348474c1abb5e4a17a99e76ca?v=020e9bfdfbc04967801e0e53c5a73adb">백엔드관련 노션 링크</a></h2>
 <div>
-  <h3>동작 과정</h3>
-     <p>
-     # 백엔드 공통 <br/>
-       models.py 설계 > urls.py url 매핑 > views.py 세부로직 설정 > serializer.py 유효성검사 > API 직렬화
-     </p>
-       
-       
-</div>
-
-  <p>  
-     # 프론트 공통 <br/>       
-       async/awaite로 비동기처리 > axios를 이용하여 GET,POST,PUT,DELETE 메서드로 백엔드 서버와 연결 > axios로 가져온 결과를 useEffect 훅으로
-       useState에 저장하여 관리 > useState 값으로 로직 수행 > 클라이언트 디스플레이에 츨력
-  </p>
-
-<div>
-  <h3>매뉴얼</h3>
-  
-  <div>
-    <ul>
-      <li>1</li>
-    </ul>
-  </div>
-  
-</div> 
 
