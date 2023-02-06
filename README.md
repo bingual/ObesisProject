@@ -14,3 +14,10 @@
   
 <div>
 
+<div>
+  <h2>매뉴얼</h2>
+  <p>프로젝트 구동을 위해서 Django를 필요로 하므로 ANACONDA를 설치해야합니다. <a href="https://www.anaconda.com/products/distribution">아나콘다 설치 링크</a></p>
+  
+  
+</div>
+
